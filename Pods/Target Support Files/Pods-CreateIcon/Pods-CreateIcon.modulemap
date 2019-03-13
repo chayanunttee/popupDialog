@@ -1,0 +1,6 @@
+framework module Pods_CreateIcon {
+  umbrella header "Pods-CreateIcon-umbrella.h"
+
+  export *
+  module * { export * }
+}
